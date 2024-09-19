@@ -43,4 +43,6 @@
   <url type="bugtracker">https://github.com/anyproto/anytype-ts/issues/</url>
   <url type="help">https://doc.anytype.io/</url>
   <url type="homepage">https://anytype.io/</url>
+  <url type="vcs-browser">https://github.com/anyproto/anytype-ts/</url>
+  
 </component>
