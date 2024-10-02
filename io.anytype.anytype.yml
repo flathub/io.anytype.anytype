@@ -1,10 +1,10 @@
 id: io.anytype.anytype
 base: org.electronjs.Electron2.BaseApp
-base-version: "23.08"
+base-version: "24.08"
 rename-desktop-file: anytype.desktop
 rename-icon: anytype
 runtime: org.freedesktop.Platform
-runtime-version: '23.08'
+runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 separate-locales: false
 command: anytype
@@ -16,7 +16,6 @@ finish-args:
   - --socket=x11
   - --talk-name=org.freedesktop.secrets
 modules:
-  - shared-modules/libsecret/libsecret.json
   - name: anytype
     buildsystem: simple
     build-commands:
