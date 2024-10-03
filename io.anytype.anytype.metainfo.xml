@@ -30,27 +30,27 @@
 
   <screenshots>
     <screenshot type="default">
-      <image xml:lang="en">https://github.com/user-attachments/assets/6b11140f-ea1b-48d6-b14a-d89c3a6d57ca</image>
+      <image>https://github.com/user-attachments/assets/6b11140f-ea1b-48d6-b14a-d89c3a6d57ca</image>
       <caption>Example plant database</caption>
     </screenshot>
     <screenshot>
-      <image xml:lang="en">https://github.com/user-attachments/assets/716e8d37-be38-41c6-9816-7079546c20df</image>
+      <image>https://github.com/user-attachments/assets/716e8d37-be38-41c6-9816-7079546c20df</image>
       <caption>Example custom plant object</caption>
     </screenshot>
     <screenshot>
-      <image xml:lang="en">https://github.com/user-attachments/assets/f6bc73f9-eedc-4c89-a8bb-2028715bf109</image>
+      <image>https://github.com/user-attachments/assets/f6bc73f9-eedc-4c89-a8bb-2028715bf109</image>
       <caption>Markdown editor with commands</caption>
     </screenshot>
     <screenshot>
-      <image xml:lang="en">https://github.com/user-attachments/assets/6ae891d7-b4fe-465e-b46b-83353d13e405</image>
+      <image>https://github.com/user-attachments/assets/6ae891d7-b4fe-465e-b46b-83353d13e405</image>
       <caption>Darkmode appearance</caption>
     </screenshot>
     <screenshot>
-      <image xml:lang="en">https://github.com/user-attachments/assets/97629e3b-68d4-4572-90b9-acfb7ca7c7ac</image>
+      <image>https://github.com/user-attachments/assets/97629e3b-68d4-4572-90b9-acfb7ca7c7ac</image>
       <caption>Graph zoomed in</caption>
     </screenshot>
     <screenshot>
-      <image xml:lang="en">https://github.com/user-attachments/assets/83ba8573-b966-415a-96cc-92a8f8feef5f</image>
+      <image>https://github.com/user-attachments/assets/83ba8573-b966-415a-96cc-92a8f8feef5f</image>
       <caption>Graph zoomed out</caption>
     </screenshot>
   </screenshots>
