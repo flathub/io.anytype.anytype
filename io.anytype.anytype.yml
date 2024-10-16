@@ -14,7 +14,11 @@ finish-args:
   - --share=ipc
   - --socket=pulseaudio
   - --socket=x11
+  # required for system tray
+  - --talk-name=org.kde.StatusNotifierWatcher
   - --talk-name=org.freedesktop.secrets
+  # required to fix cursor scaling on wayland https://github.com/electron/electron/issues/19810
+  - --env=XCURSOR_PATH=/run/host/user-share/icons:/run/host/share/icons
 modules:
   - name: anytype
     buildsystem: simple
