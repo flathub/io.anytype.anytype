@@ -25,6 +25,7 @@
   <launchable type="desktop-id">io.anytype.anytype.desktop</launchable>
 
   <releases>
+    <release version="0.45.3" date="2025-02-17" />
     <release version="0.45.2" date="2025-02-13" />
     <release version="0.45.1" date="2025-02-12" />
     <release version="0.44.0" date="2024-12-18" />
