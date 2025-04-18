@@ -25,6 +25,7 @@
   <launchable type="desktop-id">io.anytype.anytype.desktop</launchable>
 
   <releases>
+    <release version="0.46.1" date="2025-04-18" />
     <release version="0.46.0" date="2025-04-16">
       <description>
         <p>Create a manual backup before updating. This release replaces the underlying database, and Anytype must perform a data migration to the new database format upon running the new release for the first time.</p>
