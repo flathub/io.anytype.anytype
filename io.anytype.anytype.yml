@@ -39,6 +39,11 @@ modules:
           - x86_64
         sha256: 91e21390082c3f0cbebc0105966838334fddff4e75eef85e1a51181b5493b2d5
         url: https://github.com/anyproto/anytype-ts/releases/download/v0.46.8/anytype_0.46.8_amd64.deb
+        x-checker-data:
+          type: anitya
+          project-id: 378448
+          stable-only: true
+          url-template: https://github.com/anyproto/anytype-ts/releases/download/v$version/anytype_$version_amd64.deb
       - type: file
         path: io.anytype.anytype.metainfo.xml
       - type: script
