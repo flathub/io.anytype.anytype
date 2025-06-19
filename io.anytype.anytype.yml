@@ -43,7 +43,7 @@ modules:
           type: anitya
           project-id: 378448
           stable-only: true
-          url-template: https://github.com/anyproto/anytype-ts/releases/download/v$version/anytype_$version_amd64.deb
+          url-template: https://github.com/anyproto/anytype-ts/releases/download/v${version}/anytype_${version}_amd64.deb
       - type: file
         path: io.anytype.anytype.metainfo.xml
       - type: script
