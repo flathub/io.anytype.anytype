@@ -37,8 +37,8 @@ modules:
         dest-filename: anytype_amd64.deb
         only-arches:
           - x86_64
-        sha256: 3808cdea5171f1b17f29a890ab42b520de484cae1b40586944e4e0c556a9fe9d
-        url: https://github.com/anyproto/anytype-ts/releases/download/v0.49.0/anytype_0.49.0_amd64.deb
+        sha256: f53ca64a4e00713fe86eb5b0d9b2a2033516ac0590ffa2f99aa13d3f99439f36
+        url: https://github.com/anyproto/anytype-ts/releases/download/v0.49.1/anytype_0.49.1_amd64.deb
         x-checker-data:
           type: anitya
           project-id: 378448
