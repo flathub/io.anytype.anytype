@@ -4,7 +4,7 @@ base-version: '24.08'
 rename-desktop-file: anytype.desktop
 rename-icon: anytype
 runtime: org.freedesktop.Platform
-runtime-version: '24.08'
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 separate-locales: false
 command: anytype
